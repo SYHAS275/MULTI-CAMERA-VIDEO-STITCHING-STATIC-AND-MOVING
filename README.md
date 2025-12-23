@@ -18,6 +18,8 @@ WAYMO DATASET - https://drive.google.com/drive/folders/10kc3cGtZnUcN_5r86Gi0sAMd
 
 STABSTITCH-D DATASET - https://drive.google.com/drive/folders/1f32_RLQawtfqldfh-64HYj7yrjSrMKtz?usp=sharing
 
+STATIC DATASET - https://drive.google.com/drive/folders/11fApYmZr2WuBt4A3CA1uWgIS5cIHiWvR?usp=sharing
+
 ## Tested Datasets
 
 | Dataset | Description | Use Case |
