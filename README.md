@@ -20,6 +20,8 @@ STABSTITCH-D DATASET - https://drive.google.com/drive/folders/1f32_RLQawtfqldfh-
 
 STATIC DATASET - https://drive.google.com/drive/folders/11fApYmZr2WuBt4A3CA1uWgIS5cIHiWvR?usp=sharing
 
+STATIC DATSASET 2 - https://drive.google.com/drive/folders/1JtzsE5GxcC1FbBnoeBQGQS7v9TgcGLHC?usp=sharing
+
 ## Tested Datasets
 
 | Dataset | Description | Use Case |
