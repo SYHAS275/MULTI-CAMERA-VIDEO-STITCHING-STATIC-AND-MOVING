@@ -14,13 +14,13 @@ OpenCV, and optional GPU acceleration.
 
 DATASET- WAYMO DATASET, STABSTITCH-D and CUSTOM DATASETS
 
-WAYMO DATASET - https://drive.google.com/drive/folders/10kc3cGtZnUcN_5r86Gi0sAMdScA5x_OP?usp=sharing
+WAYMO DATASET(USE 3CAMERA.PY) - https://drive.google.com/drive/folders/10kc3cGtZnUcN_5r86Gi0sAMdScA5x_OP?usp=sharing
 
-STABSTITCH-D DATASET - https://drive.google.com/drive/folders/1f32_RLQawtfqldfh-64HYj7yrjSrMKtz?usp=sharing
+STABSTITCH-D DATASET(USE 2CAMERA.PY) - https://drive.google.com/drive/folders/1f32_RLQawtfqldfh-64HYj7yrjSrMKtz?usp=sharing
 
-STATIC DATASET - https://drive.google.com/drive/folders/11fApYmZr2WuBt4A3CA1uWgIS5cIHiWvR?usp=sharing
+STATIC DATASET(USE NO GPU STATIC.PY) - https://drive.google.com/drive/folders/11fApYmZr2WuBt4A3CA1uWgIS5cIHiWvR?usp=sharing
 
-STATIC DATSASET 2 - https://drive.google.com/drive/folders/1JtzsE5GxcC1FbBnoeBQGQS7v9TgcGLHC?usp=sharing
+STATIC DATSASET 2(USE NO GPU STATIC.PY) - https://drive.google.com/drive/folders/1JtzsE5GxcC1FbBnoeBQGQS7v9TgcGLHC?usp=sharing
 
 ## Tested Datasets
 
