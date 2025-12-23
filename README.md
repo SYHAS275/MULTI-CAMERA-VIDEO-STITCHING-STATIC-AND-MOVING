@@ -26,6 +26,18 @@ Dataset- waymo dataset and custom datasets
 - **Real-time Preview**: Live visualization of stitching progress
 - **Threaded I/O**: Parallel video reading for improved performance
 
+- ## 📸 Output Examples
+
+### 2-Camera Stitching
+![2 Camera Output](assets/result_2cam.png)
+
+### 3-Camera Stitching
+![3 Camera Output](assets/result_3cam.png)
+
+## 🎥 Demo Video
+👉 [Download 3-Camera Demo](assets/demo_3cam.mp4)
+
+
 ## Requirements
 
 ### System Dependencies
