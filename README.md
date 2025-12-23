@@ -12,7 +12,7 @@ OpenCV, and optional GPU acceleration.
 ![OpenCV](https://img.shields.io/badge/opencv-4.x-green.svg)
 ![CUDA](https://img.shields.io/badge/CUDA-optional-orange.svg)
 
-DATASET- WAYMO DATASET, STABSTICH-D and CUSTOM DATASETS
+DATASET- WAYMO DATASET, STABSTITCH-D and CUSTOM DATASETS
 
 ## Tested Datasets
 
