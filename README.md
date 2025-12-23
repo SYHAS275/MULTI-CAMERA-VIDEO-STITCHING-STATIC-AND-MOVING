@@ -72,8 +72,7 @@ python -c "import cv2; print(cv2.cuda.getCudaEnabledDeviceCount())"
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/video-panorama-stitcher.git
-cd video-panorama-stitcher
+git clone https://github.com/SYHAS275/MULTI-CAMERA-VIDEO-STITCHING-STATIC-AND-MOVING.git
 ```
 
 2. Install dependencies:
